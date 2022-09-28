@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesApp(Joseph Escribano)</string>
+    <string name="db">MoviesJosephEscribano</string>
+    <string name="pathimage">"https://image.tmdb.org/t/p/original"</string>
+</resources>
